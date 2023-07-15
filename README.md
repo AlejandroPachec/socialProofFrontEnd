@@ -37,7 +37,7 @@ Users should be able to:
 ## My process
 At first we started desktop first and it was frustrating. Just the top right part took us a couple of hours.
 
-We next tried it after having learned some useful things in the Bootcamp. We started from scrath and this time around we used the Mobile first workflow. Everything went smothly this time. Mobile version took little time and then it was time to adapt it to desktop. 
+We next tried it after having learned some useful things in the Bootcamp. We started from scrath and this time around we used the Mobile first workflow. Everything went smoothly this time. Mobile version took little time and then it was time to adapt it to desktop. 
 
 It took us some time to get everything as close as in the design of the challenge but I´m very proud of the result.
 
