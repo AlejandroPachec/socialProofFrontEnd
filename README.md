@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [FE Mentor solution](https://www.frontendmentor.io/solutions/flexbox-mobile-first-9_2stx6507)
+- Live Site URL: [Netlify](https://vocal-faloodeh-c3dba7.netlify.app)
 
 ## My process
 At first we started desktop first and it was frustrating. Just the top right part took us a couple of hours.
